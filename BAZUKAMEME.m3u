@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",TV CH3 HD = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/3hd_480p/chunks.m3u8?nimblesessionid=5374230&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NDY6MjkgUE0maGFzaF92YWx1ZT00VklYcEp0TG05aHZHZC9EdEdpc2VnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjM0Mjc4
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=100&h=74",TV CH7 HD = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/7hd_480p/chunks.m3u8?nimblesessionid=5374991&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NDc6MjAgUE0maGFzaF92YWx1ZT15TExGalRxdGNtN1VyZlJHNFRhalR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NDkzMDQz
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F482a2a27-3942-4356-8f12-4aec229badc6.png&w=100&h=74",TV CH9 HD = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/mcothd_480p/chunks.m3u8?nimblesessionid=5385510&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6MDQ6MTQgUE0maGFzaF92YWx1ZT1yTTVrLzlmVHF6RFJWM1NReE1BRnBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTQ2NjQ5
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",TV NBT HD = ALIVE = ปล.ชัดกว่า TLTV ถ้าจะดูควายเถียงกันในสภา
+https://cdn227.cloud-streaming.com/ballsoi8_r2/2nbt_480p/chunks.m3u8?nimblesessionid=5384605&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6MDI6MjEgUE0maGFzaF92YWx1ZT1TTTJ0cHd2bUtLeG5zUHp1dHRvNnhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NDIzNTYx
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=100&h=74",TV ThairathTV HD = DIE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/tvdigital_thairath_480p/chunks.m3u8?nimblesessionid=5375913&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NDg6NDIgUE0maGFzaF92YWx1ZT15TnpwSFhKYXNqVGF1ZWJ2cURzOHFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTI1NzYx
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=100&h=74",TV Workpoint Analog = DIE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/workpointtv_480p/chunks.m3u8?nimblesessionid=5377084&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NDk6NTYgUE0maGFzaF92YWx1ZT10ZXA0aURjMk84THRlRGxXSm5ici9nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MzkxMDA1
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fabe06a83-1e37-4dd7-aa4b-29c728954d90.png&w=100&h=74",TV PPTV HD = DIE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/pptv_480p/chunks.m3u8?nimblesessionid=5377599&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NTA6MjkgUE0maGFzaF92YWx1ZT1oU0k4WCtJVTRobUh5M2RzRmRZbytnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NzE5MDgx
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png&w=100&h=74",TV Amarin HD = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/amarintv_480p/chunks.m3u8?nimblesessionid=5379519&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NTI6NTIgUE0maGFzaF92YWx1ZT1JQ3hYemtJTnUzT0NYcG9veXFiTG1BPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjM1Nzc4
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=100&h=74",TV One31 HD = DIE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/tvdigital_one_480p/chunks.m3u8?nimblesessionid=5380005&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NTM6MzggUE0maGFzaF92YWx1ZT1XeVBTSGNEc1BIYkNpNTJSbDM4bnFBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjcxMzk2
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=100&h=74",TV MONO Analog = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/mono_480p/chunks.m3u8?nimblesessionid=5382415&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NTc6MTMgUE0maGFzaF92YWx1ZT1ZazNEdm93UjkrYk1lQk5jeWlSaEV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ODM2OTA0
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",TV ThaiPBS HD = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/tvdigital_thaipbs_480p/chunks.m3u8?nimblesessionid=5382818&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NTc6NTkgUE0maGFzaF92YWx1ZT1IMlllanZOZWZleWFwWm9wVC82MjhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjA1MzM5
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F26%2Febe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=100&h=74",TV CH8 Analog = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/tvdigital_ch8_480p/chunks.m3u8?nimblesessionid=5383100&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NTg6NDIgUE0maGFzaF92YWx1ZT0zRWVRMGh6dUk4eUdTbjRNeDVqd1BnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjA0NTY1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/05/28/f7e1df70-a0a3-11ea-81a6-432b2bbc8436_320.png",TV GMM25 Analog = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/gmm25_480p/chunks.m3u8?nimblesessionid=5383436&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6NTk6MzIgUE0maGFzaF92YWx1ZT1YdHg1Y05BaHpNT0dQT0R2bWExSjN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ODE2NDA0
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=100&h=74",TV True4U Analog 
+https://cdn227.cloud-streaming.com/ballsoi8_r2/true4u_480p/chunks.m3u8?nimblesessionid=5367144&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6MTY6NTcgUE0maGFzaF92YWx1ZT13cklRblZ3L3RDaXcwUmxSSG83TUtRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTkwMjI4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",TV VoiceTV Analog = DIE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/voice_480p/chunks.m3u8?nimblesessionid=5384051&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6MDE6MTIgUE0maGFzaF92YWx1ZT1PdStMMmJzdEhyV203OXcyUHVzZitBPT0mdmFsaWRtaW51dGVzPTEmaWQ9NjYwNzEw
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",TV TNN HD = ALIVE =
+https://cdn227.cloud-streaming.com/ballsoi8_r2/tnn2_480p/chunks.m3u8?nimblesessionid=5385270&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6MDM6MzUgUE0maGFzaF92YWx1ZT1qNFJQT0tIWDlOSHBNL1ZMd1JvUmVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NDk2ODMw
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Fbff4c21a-7714-4f37-8c90-7f46c8337192.png&w=100&h=74",True Music HD = DIE =
+https://cdn227.cloud-streaming.com/ballsoi8_r1/truemusic_480p/chunks.m3u8?nimblesessionid=5368960&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDY6Mzg6MjMgUE0maGFzaF92YWx1ZT1iemloQlU3ZGJpWG9UbXFycUt2Qk93PT0mdmFsaWRtaW51dGVzPTEmaWQ9MzA5NzEy
+
+#EXTINF:-1 tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/bein1.png",AIS - BeIN Sport 1 TH HD = DIE =
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://www.ballsoi8.com/wp-content/themes/colormag/logo/bein2.png",AIS - BeIN Sport 2 TH HD = DIE =
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",True Premier League 1 HD = ALIVE =
+http://tv10.chang55.com/epl-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",True Premier League 2 HD = ALIVE =
+http://tv10.chang55.com/epl-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport 1 HD = ALIVE =
+http://dootvthai-hd.com/cmd/true/truesport-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport 2 HD = ALIVE =
+http://dootvthai-hd.com/cmd/true/Truesport-HD2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport 3 HD = ALIVE =
+http://dootvthai-hd.com/cmd/true/Truesport-HD3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-tsport4.png",True Sport 4 HD = ALIVE =
+http://dootvthai-hd.com/cmd/true/Truesport-HD4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 2 Analog = ALIVE =
+http://tv10.chang55.com/ch06-tsp2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5 Analog = ALIVE =
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 6 Analog = ALIVE =
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7 Analog = ALIVE =
+http://tv10.chang55.com/ch07-tsp7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/FOXSportsHD.png",True FOX Sport HD = DIE =
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180604/xcs/kisspng-fox-sports-1-television-channel-fox-sports-north-5b158f79dc3079.7609003015281396419019.jpg",True FOX Sport 1 Analog = DIE =
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/FOXSports2.png",True FOX Sport 2 Analog = ALIVE =
+http://tv10.chang55.com/ch09-f2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/FOXSports3.png",True FOX Sport 3 Analog = ALIVE =
+http://tv10.chang55.com/ch10-f3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/GolfChannel.png",True Golf Channel HD = DIE =
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png",True Tennis HD = DIE =
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png",True NBA HD = DIE =
+http://127.0.0.1
